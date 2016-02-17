@@ -1,0 +1,28 @@
+name: SantosMagicStudio
+favicon: null
+layout_spectrum: 0.5883346498012543
+typography_spectrum: 0.6871186569333076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8809498257469386
+  lightness: 0.5290543988812715
+  saturation: 0.6262403838336468
+  rhythmicContrast: 0.35724624642170966
+purpose: []
