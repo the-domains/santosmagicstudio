@@ -1,6 +1,6 @@
-name: SantosMagicStudio
+name: Santos Magic Studio
 favicon: null
-layout_spectrum: 0.51247
+layout_spectrum: 0.4997
 typography_spectrum: 0.6871186569333076
 title: La Magia de Mercadear con Video
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8809498257469386
+  brandStrength: 0
   lightness: 0.5290543988812715
-  saturation: 0.6262403838336468
-  rhythmicContrast: 0.35724624642170966
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
