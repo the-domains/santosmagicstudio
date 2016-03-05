@@ -1,7 +1,7 @@
 name: Santos Magic Studio
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.62372
+typography_spectrum: 0.59988
 title: La Magía de Mercadear con Video
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.6875
-  rhythmicContrast: 1
+    - '#010101'
+    - '#ffffff'
+    - '#c4c4c4'
+    - '#555555'
+    - '#f69326'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
